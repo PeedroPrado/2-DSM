@@ -11,3 +11,14 @@ npx tsc (nome do arquivo) se nao funcionar o Transpilador
 node .\(nome do arquivo) para JS
 
 ts-node .\(nome do arquivo) para TS
+_______________________________________________________________________
+
+dist - distribuição
+min - minimizada (sem espaços no codigo
+
+name binding (vínculo a nome)
+exemplo: "let a: number" vincula o "a" memória
+
+alias (quando o tipo ja existe)
+
+type
