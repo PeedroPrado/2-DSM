@@ -2,7 +2,7 @@ npm install -g -tsc ts-node
 
 npm install 
 
-ts-node  algoritmo_usando_lp.ts
+ts-node  (nome do arquivo) -- Executar o arquivo ts
 
 tsc (nome do arquivo no vscode) para converter para js
 
