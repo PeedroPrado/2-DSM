@@ -1,0 +1,26 @@
+{
+  "name": "aula02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "um": "ts-node src/exercicio01.ts",
+    "dois": "ts-node src/exercicio02.ts",
+    "tres": "ts-node src/exercicio03.ts",
+    "quatro":"ts-node src/exercicio04.ts",
+    "cinco":"ts-node src/exercicio05.ts",
+    "seis":"ts-node src/exercicio06.ts",
+    "sete":"ts-node src/exercicio07.ts",
+    "oito":"ts-node src/exercicio08.ts",
+    "nove":"ts-node src/exercicio09.ts",
+    "dez":"ts-node src/exercicio10.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
