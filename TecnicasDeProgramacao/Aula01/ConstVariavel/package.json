@@ -1,0 +1,23 @@
+{
+  "name": "constvariavel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "um":"ts-node ./src/Exercicio01.ts",
+    "dois":"ts-node ./src/Exercicio02.ts",
+    "tres":"ts-node ./src/Exercicio03.ts",
+    "quatro":"ts-node ./src/Exercicio04.ts",
+    "cinco":"ts-node ./src/Exercicio05.ts",
+    "seis":"ts-node ./src/Exercicio06.ts",
+    "sete":"ts-node ./src/Exercicio07.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
