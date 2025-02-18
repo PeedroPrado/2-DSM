@@ -6,6 +6,6 @@ Para instalar os pacotes no VisualCode
 
  npm i -D ts-node typescript
 
- tsc --init (npx)
+ tsc --init
 
  se não funcionar o npx antes
