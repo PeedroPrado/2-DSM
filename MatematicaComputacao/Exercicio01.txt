@@ -1,0 +1,97 @@
+EP. 1.1. Cite uma referência (livro, arƟgo de internet, vídeo, etc.), para cada uma das áreas de
+estudo da matemáƟca citadas a seguir:
+a) Aritmética:
+Fundamentos da Aritmética - Hygino H. Domingues
+b) Álgebra elementar:
+Introdução à álgebra elementar - José Sérgio Domingues, Francielly dos Santos Bento, Tabatha Helena da Silva
+c) Álgebra linear:
+álgebra linear - Jerônimo c. Pellegrini
+
+d) Algoritmos -
+Algoritmos e Estrutura de Dados 1 - Marcos Castilho, Fabiano Silva e Daniel Weigaertner
+
+f) Lógica matemática-
+Lógica Matemática - Uma introdução - José Carlos Magossi
+
+g) Teoria dos conjuntos-
+Teoria dos Conjuntos - Fernando Sousa da Pena
+
+h) Relações e funções-
+Guias de Estudo de Matemática. Relações e Funções - Estela Kaufman Fainguelernt
+
+i) Geometria:
+
+Geometria I - A.C Morgado, E.Wagner, M. Jorge
+
+j) Cálculo e análise matemática:
+Fundamentos de Matemática-Cálculo e Análise-Cálculo Diferencial e Integral a uma Variável - Barboni, Paulette
+
+k) Probabilidade:
+Estatistica e Probabilidade - Francisco de Assis Amaral Bastos
+
+l) Estatistica:
+Introdução a estatistica - Paulo Roberto Medeiros de Azevedo
+
+EP.1.2. Ilustre uma fórmula matemática/função, ou equação, ou diagrama, ou símbolo,
+representativo das seguintes áreas da matemáƟca:
+a) Álgebra linear:
+
+A = [[1, 2], [3, 4]]
+x = [5, 6]
+A * x = [1*5 + 2*6, 3*5 + 4*6]
+[17, 39]
+
+b) Teoria de conjuntos
+
+A = {1, 2, 3, 4}
+B = {3, 4, 5, 6}
+A ∩ B = {3, 4}
+
+c) Probabilidade
+
+Probabilidade de obter um número par ao lançar um dado de 6 faces:
+Evento A = {2, 4, 6} (números pares)
+P(A) = número de resultados favoráveis / número total de resultados
+P(A) = 3 / 6 = 1/2
+
+d) Cálculo / análise matemática
+f(x) = x²:
+f'(x) = d/dx (x²) = 2x
+
+e) Geometria (trigonometria)
+a² + b² = c²
+3² + 4² = c²
+9 + 16 = c²
+c² = 25
+c = 5
+
+f) Lógica matemática
+
+Se p = "está chovendo" e q = "eu levo um guarda-chuva", então:
+p → q significa: "Se está chovendo, então eu levo um guarda-chuva".
+
+EP. 1.3. IdenƟfique uma área de conhecimento da matemáƟca que pode ser uƟlizada para a
+resolução dos seguintes problemas (obs: caso envolva múlƟplas áreas, cite-as e diga qual é a que
+aparenta ser predominantemente uƟlizada. Em alguns, casos mais de uma combinação de áreas
+é possível).
+a) Determinação de quais palavras são mais uƟlizadas em uma língua, tal como o português ou
+inglês.
+b) Desenvolvimento de um sistema de recomendação de produtos considerando o histórico dos
+produtos que são frequentemente comprados em um site de vendas. Esse sistema requer a
+organização, a análise e a adequada exibição desses dados.
+c) Cálculo de trajetórias de lançamentos oblíquos de objetos sujeitos a atração gravitacional.
+Nesse caso, os objetos estão sujeitos a aspectos dinâmicos (velocidades, acelerações, etc.).
+d) Determinação de cantos e bordas em imagens digitais, considerando a variação que ocorre na
+intensidade dos pixels da imagem. Nesse caso, considera-se que os pixels são estruturas discretas
+(ou seja, pertencentes a uma grade NxM) e que os valores das intensidades também são
+discretos.
+e) Definição de um conjunto de passos computacionais a serem executados de modo a processar
+um conjunto de entradas e obter uma saída específica. Análise desse conjunto de passos quanto
+a sua correção, consumo de memória, tempo, etc.
+f) Desenvolvimento de um jogo envolvendo objetos que se movem de modo “aleatório” em uma
+interface gráfica e que devem ser destruídos por um canhão direcionado através dos comandos
+de teclado fornecidos pelo usuário.
+g) Um assistente pessoal digital, acionado através de comandos de voz. Os comandos de voz são
+processados de acordo com a análise e processamento de um histórico de dados uƟlizado para
+o treinamento do modelo (quanto mais dados forem uƟlizados no treinamento, mais acurado
+será o assistente pessoal digital).
