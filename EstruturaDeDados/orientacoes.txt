@@ -22,3 +22,9 @@ exemplo: "let a: number" vincula o "a" memória
 alias (quando o tipo ja existe)
 
 type
+__________________________________________________________________
+
+
+npm init -y
+ npm i -D ts-node typescript   
+npx tsc --init
