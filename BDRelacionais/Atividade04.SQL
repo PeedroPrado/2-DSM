@@ -9,19 +9,19 @@ CREATE TABLE funcionarios (
  
 -- 2 Inserir os registros na tabela
 
+-- inserior os dados
 INSERT INTO funcionarios (nome, cargo, salario) VALUES
-('Lucas Andrade', 'Desenvolvedor', 5000.00),
-('Paula Ferreira', 'Gerente', 9000.00),
-('Marcos Lima', 'Designer', 4000.00);
---  Atualizar o salário de "Lucas Andrade" para R$ 5500,00
+('Pedro H Prado', 'Desenvolvedor de Sistemas', 5500.00),
+('Antonio Henrique', 'Analista de Sistemas', 8800.00),
+('Julietta', 'CEO', 12000.00)
 
 UPDATE funcionarios
 SET salario = 5500.00
-WHERE nome = 'Lucas Andrade';
+WHERE nome = 'Pedro H Prado';
 
--- Excluir o funcionário "Marcos Lima"
+-- Excluir o funcionário 
 DELETE FROM funcionarios
-WHERE nome = 'Marcos Lima'; 
+WHERE nome = 'Julietta'; 
 
 --  Verificar os funcionários que ainda estão na tabela
 
