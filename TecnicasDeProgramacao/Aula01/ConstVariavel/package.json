@@ -10,7 +10,9 @@
     "quatro":"ts-node ./src/Exercicio04.ts",
     "cinco":"ts-node ./src/Exercicio05.ts",
     "seis":"ts-node ./src/Exercicio06.ts",
-    "sete":"ts-node ./src/Exercicio07.ts"
+    "sete":"ts-node ./src/Exercicio07.ts",
+    "oito": "ts-node ./src/Exercicio08.ts",
+    "nove":"ts-node ./src/Exercicio09.ts"
   },
   "keywords": [],
   "author": "",
