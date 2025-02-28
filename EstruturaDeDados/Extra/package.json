@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "um": "ts-node ./Exercicio01"
+    "dois": "ts-node ./Exercicio02"
   },
   "keywords": [],
   "author": "",
