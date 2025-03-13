@@ -1,0 +1,50 @@
+import { CSSProperties, useState } from "react";
+
+export default function App() {
+  const [list, setList] = useState<string[]>([]);
+
+  function set(value: string) {
+    const temp = [...list, value];
+    setList(temp);
+  }
+
+  return (
+    <>
+      <div>
+        <Button label="A" set={set} />
+        <Button label="B" set={set} />
+        <Button label="C" set={set} />
+        <Button label="D" set={set} />
+      </div>
+      <ol>
+        {
+          list.map( (item, indice) => <li key={indice}>{item}</li> )
+        }
+      </ol>
+    </>
+  );
+}
+
+function Button({ label, set }: Props) {
+  return (
+    <button style={buttonStyle} onClick={() => set(label)}>
+      {label}
+    </button>
+  );
+}
+interface Props {
+  label: string;
+  set: (value: string) => void;
+}
+
+const buttonStyle: CSSProperties = {
+  backgroundColor: "#567196",
+  color: "white",
+  padding: "10px 20px",
+  marginRight: "10px",
+  fontSize: "16px",
+  fontWeight: "bold",
+  border: "none",
+  borderRadius: "5px",
+  cursor: "pointer",
+};
