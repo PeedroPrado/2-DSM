@@ -1,3 +1,18 @@
 O que é a assinatura: 
 São as informações (atributos e o tipo deles) que vão entrar no método.
 
+tipo genérico:
+Gênero de algo
+Por exemplo
+let inputs: Array<string> = [];
+
+Estrutura de Desvio:
+if/else 
+for
+while
+
+método
+class X {
+msg() {
+  }
+}
