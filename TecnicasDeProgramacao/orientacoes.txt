@@ -1,0 +1,3 @@
+O que é a assinatura: 
+São as informações (atributos e o tipo deles) que vão entrar no método.
+
