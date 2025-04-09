@@ -1,3 +1,26 @@
+No terminal, execute o comando: "npm init -y" para criar o arquivo fundamental de um projeto Node
+(arquivo package.json)
+
+Certifique-se que você tenha instalado o typescript globalmente no seu computador digitando o comando:
+"tsc --version". Será exibido o número da versão instalada caso tenha instalado o typescript:
+
+Se não tiver instalado: execute o comando a seguir para instalar globalmente e após instalar execute o
+comando "npm i typescrit -g" para verificar a versão:
+
+Digite o comando "tsc ./index.ts" para compilar o arquivo index.ts e gerar a versão JS.
+
+Use os comandos a seguir para instalar os pacotes "ts-node e typescript" como dependências de desenvolvimento:
+npm i -D ts-node
+npm i -D typescript
+
+ts-node ./nome do arquivo (para rodar o arquivo typescript em js)
+tsc nome do arquivo (cria o arquivo js)
+node ./nome do arquivo (roda o arquivo js)
+
+npm run start (se estiver no package.json)
+
+__________________________________________________________________________________________________________________________________
+
 O que é a assinatura: 
 São as informações (atributos e o tipo deles) que vão entrar no método.
 
