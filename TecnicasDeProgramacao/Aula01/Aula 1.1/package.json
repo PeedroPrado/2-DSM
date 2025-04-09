@@ -1,0 +1,25 @@
+{
+  "name": "exemplo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "um": "npx ts-node ./Ex01",
+    "dois": "npx ts-node ./Ex02",
+    "tres": "npx ts-node ./Ex03",
+    "quatro": "npx ts-node ./Ex04",
+    "cinco": "npx ts-node ./Ex05",
+    "seis": "npx ts-node ./Ex06",
+    "sete": "npx ts-node ./Ex07",
+    "oito": "npx ts-node ./Ex08",
+    "nove": "npx ts-node ./Ex09",
+    "dez": "npx ts-node ./Ex10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
