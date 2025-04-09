@@ -19,7 +19,9 @@ node ./nome do arquivo (roda o arquivo js)
 
 npm run start (se estiver no package.json)
 
-Utilize o comando "tsc --init" para criar o arquivo tsconfig.json na raiz do projeto.
+Utilize o comando "tsc --init" para criar o arquivo tsconfig.json na raiz do projeto. 
+
+VOID - Função sem valor no retorno
 
 __________________________________________________________________________________________________________________________________
 
