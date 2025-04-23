@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS notas, alunos, cursos;
 -- 2️⃣ Criar as tabelas corretamente
 CREATE TABLE cursos (
     id_curso SERIAL PRIMARY KEY,
-    nome VARCHAR(100) NOT NULL
+    Curso VARCHAR(100) NOT NULL
 );
 
 CREATE TABLE alunos (
@@ -21,7 +21,7 @@ CREATE TABLE notas (
 );
 
 -- Inserir dados corretamente
-INSERT INTO cursos (nome) VALUES
+INSERT INTO cursos (Curso) VALUES
     ('Engenharia'),
     ('Analise de Sistema'),
     ('Computação'),
@@ -42,7 +42,7 @@ INSERT INTO notas (id_aluno, disciplina, nota) VALUES
 _____________________________________________________________________
 
 CREATE VIEW vw_alunos_cursos AS
-SELECT alunos.id_aluno, cursos.nome
+SELECT alunos.nome, cursos.Curso
 FROM alunos
 INNER JOIN cursos ON alunos.id_curso = cursos.id_curso;
 
