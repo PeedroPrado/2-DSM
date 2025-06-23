@@ -8,7 +8,9 @@
     "dois": "ts-node ./src/exercicio02.ts",
     "tres": "ts-node ./src/exercicio03.ts",
     "quatro": "ts-node ./src/exercicio04.ts",
-    "cinco":"ts-node ./src/exercicio05.ts"
+    "cinco":"ts-node ./src/exercicio05.ts",
+    "seis": "ts-node ./src/exercicio06.ts",
+    "sete": "ts-node ./src/exercicio07.ts"
   },
   "keywords": [],
   "author": "",
