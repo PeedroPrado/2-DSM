@@ -1,0 +1,21 @@
+{
+  "name": "aula06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "npx ts-node src/um.ts",
+    "dois": "npx ts-node src/dois.ts",
+    "tres": "npx ts-node src/tres.ts",
+    "quatro": "npx ts-node src/quatro.ts",
+    "cinco": "npx ts-node src/cinco.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
