@@ -1,0 +1,19 @@
+{
+  "name": "exemplo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/index",
+    "constructor": "ts-node ./src/constructor",
+    "condicional": "ts-node ./src/condicional",
+    "param_condicional": "ts-node ./src/param_condicional"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
