@@ -1,0 +1,26 @@
+{
+  "name": "aula05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": " npx ts-node src/um.ts",
+    "dois": "npx ts-node src/dois.ts",
+    "tres": "npx ts-node src/tres.ts",
+    "quatro": "npx ts-node src/quatro.ts",
+    "cinco": "npx ts-node src/cinco.ts",
+    "seis": "npx ts-node src/seis.ts",
+    "sete": "npx ts-node src/sete.ts",
+    "oito": "npx ts-node src/oito.ts",
+    "nove": "npx ts-node src/nove.ts",
+    "dez": "npx ts-node src/dez.ts"  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
