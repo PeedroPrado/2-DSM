@@ -1,0 +1,26 @@
+{
+  "name": "vetores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "npx ts-node ./src/Ex01.ts",
+    "dois": "npx ts-node ./src/Ex02.ts",
+    "tres": "npx ts-node ./src/Ex03.ts",
+    "quatro": "npx ts-node ./src/Ex04.ts",
+    "cinco": "npx ts-node ./src/Ex05.ts",
+    "seis": "npx ts-node ./src/Ex06.ts",
+    "sete": "npx ts-node ./src/Ex07.ts",
+    "oito": "npx ts-node ./src/Ex08.ts",
+    "nove": "npx ts-node ./src/Ex09.ts",
+    "dez": "npx ts-node ./src/Ex10.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
